@@ -10,7 +10,7 @@ public class ScannerCls {
 		int val = sc.nextInt();
 		System.out.println("Date is:"+val);
 		System.out.println("Enter a binary no");
-		//int bin = sc.nextInt(2) 
+		int bin = sc.nextInt(2);
 		
 	}
 
